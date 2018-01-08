@@ -16,8 +16,6 @@ Branch A: Change G
 Branch A: Change H
 Branch A: Change I
 
-
-
 Master: Change A
 Master: Change B
 Master: Change C
@@ -29,7 +27,6 @@ Branch B: Change 3
 
 Master: Change 1
 Master: Change 2
-
 Master: Change3
-
+Master: Change 4
 
